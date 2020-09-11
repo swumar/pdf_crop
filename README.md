@@ -5,6 +5,6 @@ Cropping a pdf with invoice and shipping information for orders from Flipkart e-
 Python - PyPDF2
   
 ## Execution:
-  Copy the imput pdf to input folder
+  Copy the input pdf to input folder
   
   Run crop.py
